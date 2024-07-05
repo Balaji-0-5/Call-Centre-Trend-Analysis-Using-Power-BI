@@ -1,3 +1,5 @@
 # Call Centre Trend Analysis
 
 Report 1 link = https://app.powerbi.com/view?r=eyJrIjoiMTEwNGUxZjEtNjI2OC00ZmE0LTg0MjktMjY2YmM3MDg0MDMwIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9
+
+churn analysis = https://app.powerbi.com/view?r=eyJrIjoiYTUyOTEyZDYtZDI3Mi00M2RkLWE1N2UtMmVjYWY3MTM2MDM4IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9
