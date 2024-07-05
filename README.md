@@ -1,6 +1,5 @@
 # Data Analytics and Visualization for Business Impact with Power BI
 
----
 
 ## Project Overview
 
@@ -8,7 +7,7 @@ This project was developed as part of the PwC Power BI Job Simulation, showcasin
 
 Through detailed data analysis and visualization, this project aims to support informed decision-making and highlight opportunities for enhancement and innovation.
 
----
+
 
 ## Dashboards and Visualizations
 
@@ -24,10 +23,10 @@ This dashboard provides an in-depth analysis of factors contributing to customer
 
 ![Customer Demographics and Preferences](https://github.com/Balaji-0-5/Call-Centre-Trend-Analysis-Using-Power-BI/blob/main/Data/customer-demograhics.jpg)
 
----
+
 
 ## Conclusion
 
 This project demonstrates my ability to use Power BI for data analysis and visualization, providing valuable insights into business operations. For more information or to discuss potential opportunities, please feel free to reach out.
 
----
+
