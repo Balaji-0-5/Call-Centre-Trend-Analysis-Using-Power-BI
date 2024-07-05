@@ -21,7 +21,7 @@ The first dashboard provides a comprehensive view of call center operations. It 
 This dashboard provides an in-depth analysis of factors contributing to customer churn. It explores how different contract types impact customer loyalty, with month-to-month contracts showing a higher likelihood of churn. The analysis also highlights the role of technical support, revealing that customers with a higher number of unresolved tech tickets or those without tech support are more likely to leave. By examining customer tenure, the dashboard shows that newer customers are more prone to churn compared to those with longer relationships with the company. Additionally, the analysis uncovers billing method issues, particularly with electronic cheques and paperless billing, which correlate with higher churn rates. Demographic insights, such as the slight influence of age on churn, are also presented. The dashboard concludes with actionable recommendations to reduce churn, including enhancing technical support, incentivizing longer contracts, improving billing systems, and developing targeted programs for senior citizens.
 - To view Dashboard, click [here](https://app.powerbi.com/view?r=eyJrIjoiYTUyOTEyZDYtZDI3Mi00M2RkLWE1N2UtMmVjYWY3MTM2MDM4IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9))
 
-![Customer Demographics and Preferences](https://github.com/Balaji-0-5/Call-Centre-Trend-Analysis-Using-Power-BI/blob/main/Data/customer-demograhics.jpg)
+![Customer Risk Analysis](https://github.com/Balaji-0-5/Data-Analytics-and-Visualization-for-Business-Impact-with-Power-BI/blob/main/Data/customer-risk%20analysis.jpg)
 
 
 
